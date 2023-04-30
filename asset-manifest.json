@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/musicmate/static/css/main.2aa10989.css",
+    "main.js": "/musicmate/static/js/main.c257e640.js",
+    "static/js/787.ae198ac8.chunk.js": "/musicmate/static/js/787.ae198ac8.chunk.js",
+    "static/media/avash.jpeg": "/musicmate/static/media/avash.0020dd94196fffe92327.jpeg",
+    "static/media/logo-phone.png": "/musicmate/static/media/logo-phone.e86e51cc4b8cc11176cb.png",
+    "static/media/rishabh.jpeg": "/musicmate/static/media/rishabh.040a882f88594885906d.jpeg",
+    "static/media/advait.jpeg": "/musicmate/static/media/advait.984abe56463b1bff7c4f.jpeg",
+    "static/media/ailiya.jpeg": "/musicmate/static/media/ailiya.b1852ddb74830bc8482c.jpeg",
+    "static/media/akshar.jpeg": "/musicmate/static/media/akshar.001420078019048f624c.jpeg",
+    "index.html": "/musicmate/index.html",
+    "main.2aa10989.css.map": "/musicmate/static/css/main.2aa10989.css.map",
+    "main.c257e640.js.map": "/musicmate/static/js/main.c257e640.js.map",
+    "787.ae198ac8.chunk.js.map": "/musicmate/static/js/787.ae198ac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa10989.css",
+    "static/js/main.c257e640.js"
+  ]
+}
